@@ -1,0 +1,2 @@
+# qp-assessment
+TECHNICAL ASSESMENT - GROCERY APP
