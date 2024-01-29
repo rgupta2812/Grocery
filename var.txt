@@ -1,0 +1,4 @@
+NODE_ENV = "dev"
+PORT = 8080
+MONGO_CONNECTION_STRING = "mongodb+srv://qp:qptest@cluster.ie8er8m.mongodb.net/qp?retryWrites=true&w=majority"
+SESSION_SECRET = "fchdib6tbYBDY316uyby82d"
